@@ -21,4 +21,4 @@ Outside of coding, I enjoy playing tennis, writing with fountain pens, and ridin
 - [Creative-Space]({% link _posts/2021-04-09-creative-space-java.md %})
 - [Family-Feud]({% link _posts/2022-04-01-family-feud.md %})
 
-See my resume [here](assetsdocuments/yangt-resume-090522.pdf).
+See my resume [here](assets/documents/yangt-resume-090522.pdf).
