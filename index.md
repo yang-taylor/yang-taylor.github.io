@@ -15,7 +15,8 @@ to experimenting with the Linux command line, to solving math problems with Juli
 Outside of coding, I enjoy playing tennis, writing with fountain pens, and riding my bike around town.
 
 ## Past Projects
-[Link to a document]({% link _collection/name-of-document.md %})
+- [Creative-Space]({% link _posts/2021-04-09-creative-space-java.md %})
+- [Family-Feud]({% link _posts/2022-04-01-family-feud.md %})
 
 [^216]: Software Development Fundamentals
 [^298]: Research Methods in Computer Science
