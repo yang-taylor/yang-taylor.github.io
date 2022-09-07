@@ -2,7 +2,8 @@
 layout: post
 title:  "FAMILY-FEUD: A QUICK SVELTE PROJECT (2022)"
 date:   2022-04-01 14:16:19 -0400
-categories: guilford-college javascript coding-project simple
+tags: guilford-college javascript  simple
+categories: coding-project
 ---
 
 [View Project Here](https://family-feud-hosa.vercel.app/?q=1)

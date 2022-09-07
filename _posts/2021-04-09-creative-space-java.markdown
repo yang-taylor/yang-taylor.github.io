@@ -2,7 +2,8 @@
 layout: post
 title:  "Creative-Space: A Drawing Program Made With JavaFX"
 date:   2021-04-09 14:16:19 -0400
-categories:  ctis210 guilford-college team-project java coding-project
+tags:  ctis210 guilford-college team-project java
+categories: coding-project
 ---
 
 Creative-Space was a collaboration between me and classmate Zoya Bawangaonwala.
