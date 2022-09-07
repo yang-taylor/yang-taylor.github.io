@@ -14,6 +14,6 @@ to experimenting with the Linux command line, to solving math problems with Juli
 
 Outside of coding, I enjoy playing tennis, writing with fountain pens, and riding my bike around town.
 
-[^216] Software Development Fundamentals
-[^298] Research Methods in Computer Science
-[^GC] Introduction to Computer Programming, Operating Systems, and Scientific Computing
+[^216]: Software Development Fundamentals
+[^298]: Research Methods in Computer Science
+[^GC]: Introduction to Computer Programming, Operating Systems, and Scientific Computing
