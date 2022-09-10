@@ -23,3 +23,7 @@ Outside of coding, I enjoy playing tennis, writing with fountain pens, and ridin
 - [Family-Feud]({% link _posts/2022-04-01-family-feud.md %})
 
 See my resume [here](/assets/documents/yangt-resume-090822.pdf).
+
+Other docs:
+[Pens!]({% link _posts/personal/2022-09-10-pens.md %}),
+<!-- [Note to Self]({% link _posts/personal/2022-09-10-note-to-self.md %}) -->

@@ -19,6 +19,9 @@ My biggest challenge right now is being able to generate new game boards from th
 When that project is done, I want to build an site similar to [Receiptify](https://receiptify.herokuapp.com/).
 I'm thinking of using Java Spring, the Apple Music API (for the iCloud Music Library), and ReactJS.
 
+Other than straight coding, I'll be trying to read [computer science research papers](https://arxiv.org/list/cs/recent), as well.
+Maybe three per week is a bit of a lofty goal; I'll adjust as needed.
+
 ### Music
 I do want to get better piano, but I don't have easy access to an instrument.
 Sometimes, it's okay to de-prioritise goals that don't fit into your life.
