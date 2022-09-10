@@ -23,9 +23,9 @@ email: tyang27@ncsu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   cs student @ ncsu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.tayleyi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  tayleyi
 
 # Build settings
 ## theme: minima
@@ -37,6 +37,11 @@ plugins:
 
 permalink: /:year/:month/:day/:title:output_ext
 logo: /assets/img/profile-pic-082022.JPG
+
+collections:
+  - random:
+    output: true
+    permalink: /:collection/:name
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
