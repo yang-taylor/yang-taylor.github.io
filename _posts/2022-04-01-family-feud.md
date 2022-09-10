@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "FAMILY-FEUD: A QUICK SVELTE PROJECT (2022)"
+title:  "Family-Feud: A Quick Svelte Project"
+author: "Taylor Yang"
 date:   2022-04-01 14:16:19 -0400
 tags: guilford-college javascript  simple
 categories: coding-project
