@@ -28,20 +28,16 @@ twitter_username: jekyllrb
 github_username:  tayleyi
 
 # Build settings
-## theme: minima
+##theme: minima
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:categories/:year/:month/:day/:title:output_ext
 logo: /assets/img/profile-pic-082022.JPG
 
-collections:
-  - random:
-    output: true
-    permalink: /:collection/:name
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

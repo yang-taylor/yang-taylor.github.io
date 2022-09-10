@@ -4,7 +4,7 @@ title:  "Creative-Space: A Drawing Program Made With JavaFX"
 author: "Taylor Yang, Zoya Bawangaonwala"
 date:   2021-04-09
 tags:  ctis210 guilford-college team-project java
-categories: coding-project
+category: coding-project
 ---
 
 Creative-Space was a collaboration between me and classmate Zoya Bawangaonwala.

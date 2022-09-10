@@ -4,7 +4,7 @@ title:  "Family-Feud: A Quick Svelte Project"
 author: "Taylor Yang"
 date:   2022-04-01
 tags: guilford-college javascript  simple
-categories: coding-project
+category: coding-project
 ---
 
 [View Live Demo Here](https://family-feud-hosa.vercel.app/?q=1)
