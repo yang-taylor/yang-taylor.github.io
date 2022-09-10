@@ -24,9 +24,9 @@ Currently, the program is a bit on the primitive side.
 However, the code also allows a lot of flexibility for extending it– such as rearranging layers, adding different shapes, etc.
 
 ## Demo Images
-![Creative-Space Demo Image 1, Leaf Line Art](assets/img/2021-04-09/Creative-Space-Demo-1.png)
-![Creative-Space Demo Image 2, Adding Shapes](assets/img/2021-04-09/Creative-Space-Demo-2.png)
-![Creative-Space Demo Image 3, File Selector](assets/img/2021-04-09/Creative-Space-Demo-3.png)
+![Creative-Space Demo Image 1, Leaf Line Art](/assets/img/2021-04-09/Creative-Space-Demo-1.png)
+![Creative-Space Demo Image 2, Adding Shapes](/assets/img/2021-04-09/Creative-Space-Demo-2.png)
+![Creative-Space Demo Image 3, File Selector](/assets/img/2021-04-09/Creative-Space-Demo-3.png)
 
 ## Process
 We wanted to create a drawing and digital art project, which would mimic some basic capabilities of Microsoft Paint or Procreate.
