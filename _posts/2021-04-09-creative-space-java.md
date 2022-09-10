@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Creative-Space: A Drawing Program Made With JavaFX"
+author: "Taylor Yang, Zoya Bawangaonwala"
 date:   2021-04-09 14:16:19 -0400
 tags:  ctis210 guilford-college team-project java
 categories: coding-project
 ---
 
 Creative-Space was a collaboration between me and classmate Zoya Bawangaonwala.
+(See her write-up [here](https://zoyab522.github.io/Personal-Website-Portfolio/CodingProjects.html#JavaAnchor)).
 We spent about a month working on this project.
 Since we worked as a team, we had to find a way to share our code, even when we aren’t working at the same time, from the same computer.
 Our work flow involved a mix of using GitHub and emailing archives.
@@ -20,6 +22,11 @@ Here, there are some shapes options, a brush option, options to change the color
 There are also buttons that allow the user to add a layer, remove the top layer, undo an action, and redo an action.
 Currently, the program is a bit on the primitive side.
 However, the code also allows a lot of flexibility for extending it– such as rearranging layers, adding different shapes, etc.
+
+## Demo Images
+![Creative-Space Demo Image 1, Leaf Line Art](assets/img/2021-04-09/Creative-Space-Demo-1)
+![Creative-Space Demo Image 2, Adding Shapes](assets/img/2021-04-09/Creative-Space-Demo-2)
+![Creative-Space Demo Image 3, File Selector](assets/img/2021-04-09/Creative-Space-Demo-3)
 
 ## Process
 We wanted to create a drawing and digital art project, which would mimic some basic capabilities of Microsoft Paint or Procreate.
