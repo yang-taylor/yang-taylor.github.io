@@ -3,7 +3,7 @@ layout: post
 title:  "Family-Feud: A Quick Svelte Project"
 author: "Taylor Yang"
 date:   2022-04-01
-tags: guilford-college javascript  simple
+tags: 	guilford-college javascript  simple
 category: coding-project
 ---
 

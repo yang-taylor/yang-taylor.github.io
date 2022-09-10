@@ -3,5 +3,36 @@ layout: post
 title:  "Note to Self: Current Projects"
 author: "Taylor Yang"
 date:   2022-09-10
+tags: 	random
 category: personal
 ---
+
+## Goals
+
+### Coding
+My current WIP is [Sudoku](https://github.com/tayleyi/sudoku).
+For that project, I'll be using Flask (Python) for the backend, most likely hosted on Vercel.
+I'll be using ReactJS for the front-end.
+The project will most likely use a SQL database, hosted on PlanetScale.
+My biggest challenge right now is being able to generate new game boards from the back end.
+
+When that project is done, I want to build an site similar to [Receiptify](https://receiptify.herokuapp.com/).
+I'm thinking of using Java Spring, the Apple Music API (for the iCloud Music Library), and ReactJS.
+
+### Music
+I do want to get better piano, but I don't have easy access to an instrument.
+Sometimes, it's okay to de-prioritise goals that don't fit into your life.
+
+### Speaking
+I want to get better at speaking at smoother pace.
+To do that, I'll be booking study rooms at the library, and recording myself.
+I'll be either reading from an article or answering on-the-spot questions.
+I want to be able to practice prepared (memorized) speeches at some point, but that isn't part of the plan right now.
+
+### Chinese
+I come from a Mandarin-speaking family.
+However, I am effectively illiterate, and my speaking skills are somewhat subpar as well.
+My goal is to reach the [TOCFL](https://tocfl.edu.tw/) fluency of Band B-4 by the end of 2023.
+In order to do that, I'll be studying from books on Chinese idioms (from the school library).
+Maybe, in the future, I'll purchase actual workbooks and graded reading books.
+However, since I currently am only able to commit 1.5 hours to practice each week, so I don't want to commit financially to this.
