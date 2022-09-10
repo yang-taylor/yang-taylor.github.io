@@ -2,7 +2,7 @@
 layout: post
 title:  "Creative-Space: A Drawing Program Made With JavaFX"
 author: "Taylor Yang, Zoya Bawangaonwala"
-date:   2021-04-09 14:16:19 -0400
+date:   2021-04-09
 tags:  ctis210 guilford-college team-project java
 categories: coding-project
 ---

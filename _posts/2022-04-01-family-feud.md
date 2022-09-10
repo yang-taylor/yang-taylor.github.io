@@ -2,12 +2,12 @@
 layout: post
 title:  "Family-Feud: A Quick Svelte Project"
 author: "Taylor Yang"
-date:   2022-04-01 14:16:19 -0400
+date:   2022-04-01
 tags: guilford-college javascript  simple
 categories: coding-project
 ---
 
-[View Project Here](https://family-feud-hosa.vercel.app/?q=1)
+[View Live Demo Here](https://family-feud-hosa.vercel.app/?q=1)
 
 In my senior year of high school, one of my clubs hosted a “Game Night” fundraiser event.
 I decided to create an interface for our version of Family Feud.
