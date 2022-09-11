@@ -16,7 +16,14 @@ I'll be using ReactJS for the front-end.
 The project will most likely use a SQL database, hosted on PlanetScale.
 My biggest challenge right now is being able to generate new game boards from the back end.
 
-When that project is done, I want to build an site similar to [Receiptify](https://receiptify.herokuapp.com/).
+At the same time, I'll also be working on extending my [Family Feud]({% link _posts/2021-04-09-creative-space-java.md %}) project.
+I'll be attempting to add authentication and a database,
+so that the game host will be able to use the web interface, rather than the Google Doc.
+
+Right now, I'll also be starting to collect data on cost per wear for my clothes.
+I'm thinking of creating a data science project based upon that data.
+
+When the sudoku project is done, I want to build an site similar to [Receiptify](https://receiptify.herokuapp.com/).
 I'm thinking of using Java Spring, the Apple Music API (for the iCloud Music Library), and ReactJS.
 
 Other than straight coding, I'll be trying to read [computer science research papers](https://arxiv.org/list/cs/recent), as well.
