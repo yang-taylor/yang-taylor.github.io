@@ -1,0 +1,110 @@
+{
+    "education": [
+        {
+            "school": "North Carolina State University",
+            "city": "Raleigh, NC",
+            "degree": "BS in Computer Science",
+            "gpa": 3.48,
+            "date": "Expected 2025",
+            "relevant": [
+                "Software Development Fundamentals",
+                "Intro to Research Methods in Computer Science"
+            ]
+        },
+        {
+            "school": "Guilford College",
+            "city": "Greensboro, NC",
+            "gpa": 3.78,
+            "date": "Aug 2020 - May 2022",
+            "relevant": [
+                "Scientific Computing",
+                "Operating Systems"
+            ]
+        }
+    ],
+
+    "work experience": [
+        {
+            "role": "Barista",
+            "company": "Starbucks Coffee Company",
+            "city": "Greensboro and Raleigh, NC",
+            "date": "Jun 2021 - Aug 2022",
+            "tasks": [
+                "Worked with a team to provide high-quality products in a fast-paced environment",
+                "Anticipated and met customer needs, making connections and ensuring a enjoyable experience"
+            ]
+        },
+        {
+            "role": "Teaching Assistant",
+            "company": "Guilford College, Computing (CTIS) Department",
+            "city": "Greensboro, NC",
+            "date": "Dec 2020 - May 2022",
+            "tasks": [
+                "Provided guidance to students studying Microeconomics, Calculus I, and Intro to Computer Programming (Java)",
+                "Graded and provided feedback on programming labs and assignments; 16 major labs per semester"
+            ]
+        },
+        {
+            "role": "Cashier",
+            "company": "Harris Teeter",
+            "city": "Greensboro, NC",
+            "date": "Aug 2020 - Jun 2021",
+            "tasks": [
+                "",
+                ""
+            ]
+        }
+    ],
+
+    "extracurriculars": [
+        { 
+            "organization": "Women in Computer Science",
+            "role": "Workshop Committee Member",
+            "date": "Aug 2022 - Now"
+        },
+        {
+            "organization": "HOSA-Future Health Professionals",
+            "role": "President",
+            "date": "Aug 2018 - Jun 2022",
+            "tasks": []
+        },
+        {
+            "organization": "Lyft Virtual Experience Participant",
+            "role": "Particpated in the open access Lyft Virtual Experience with Forage.",
+            "date": "Sept 2022",
+            "tasks": [
+                "Developing UML diagrams to redesign software architecture",
+                "Refactoring Python project using UML diagrams as a guide",
+                "Writing unit tests for a refactored system",
+                "Adding new functionality to system using test-driven development"
+            ]
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "CreativeSpace",
+            "tools": ["Java", "JavaFX", "Git", "Teamwork"],
+            "description": "Basic drawing program implemented in JavaFX; Functionality: free draw lines, add shapes, import/export files",
+            "url": "https://github.com/tayleyi/Creative-Space"
+        },
+        {
+            "name": "Family Feud",
+            "tools": ["Svelte", "HTML/CSSS/JS", "Git", "Vercel"],
+            "description": "Family Feud interface, implemented through Svelte; Built for a school fundraiser",
+            "url": "https://github.com/tayleyi/family-feud"
+        }
+    ],
+
+    "skills": {
+        "languages": [
+            "Java (jUnit, Eclipse)",
+            "Python (Flask)",
+            "JavaScript (Svelte)",
+            "HTML/CSS"
+        ],
+        "tools": [
+            "Git"
+        ]
+    }
+}
