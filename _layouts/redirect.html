@@ -1,0 +1,30 @@
+<html>
+ <head>
+     <meta charset="utf-8"/>
+     <meta http-equiv="refresh" content="1;url={{ page.redirect }}"/>
+     <link rel="canonical" href="{{ page.redirect }}"/>
+     <script type="text/javascript">
+             window.location.href = "{{ page.redirect }}"
+     </script>
+     <title>Page Redirection</title>
+ </head>
+ <body>
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+    <p>If you are not redirected automatically, follow <a href='{{ page.redirect }}'>this link</a>.</p>
+</div>
+</body>
+</html>
