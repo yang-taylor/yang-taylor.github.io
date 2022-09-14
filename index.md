@@ -24,7 +24,7 @@ Outside of coding, I enjoy playing tennis, writing with fountain pens, and ridin
 
 {% assign resumes = site.static_files | where_exp: "file", "file.path contains 'assets/documents/yangt-resume'" | reverse %}
 
-See my resume [here]({{ resume[0].path }}).
+See my resume [here]({{ resumes[0].path }}).
 
 Other posts:
 [Pens!]({% link _posts/personal/2022-09-10-pens.md %})
