@@ -19,8 +19,8 @@ to experimenting with the Linux command line, to solving math problems with Juli
 Outside of coding, I enjoy playing tennis, writing with fountain pens, and riding my bike around town.
 
 ## Past Coding Projects
-- [Creative-Space]({% link _posts/2021-04-09-creative-space-java.md %})
-- [Family-Feud]({% link _posts/2022-04-01-family-feud.md %})
+- [CreativeSpace]({% link _posts/2021-04-09-creative-space-java.md %})
+- [Family Feud]({% link _posts/2022-04-01-family-feud.md %})
 
 {% assign resumes = site.static_files | where_exp: "file", "file.path contains 'assets/documents/yangt-resume'" | reverse %}
 

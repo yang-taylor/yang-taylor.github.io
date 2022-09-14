@@ -37,11 +37,6 @@ plugins:
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 logo: /assets/img/profile-pic-082022.JPG
-defaults:
-  - scope:
-      path: "assets/documents/"
-    values:
-      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

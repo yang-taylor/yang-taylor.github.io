@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Family-Feud: A Quick Svelte Project"
+title:  "Family Feud: A Quick Svelte Project"
 author: "Taylor Yang"
 date:   2022-04-01
 tags: 	guilford-college javascript  simple
@@ -18,3 +18,8 @@ It’s not perfect; the answer bank is quite static, and cannot be edited on the
 The questions are housed on a separate text document, to prevent cheating from the screen.
 So, the only people who can play this version of the game are people with access to the question bank and answer key. 
 However, we were able to successfully play four rounds of the game using this web app.
+
+## Update: 09/14/22
+
+I'm currently working on extending this program, by adding a MySQL database.
+I'm also planning on adding user authentication (for modifying/accessing questions and answers).

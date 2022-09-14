@@ -25,6 +25,7 @@ I'm thinking of creating a data science project based upon that data.
 
 When the sudoku project is done, I want to build an site similar to [Receiptify](https://receiptify.herokuapp.com/).
 I'm thinking of using Java Spring, the Apple Music API (for the iCloud Music Library), and ReactJS.
+Or maybe even PocketBase, in a Docker Container.
 
 Other than straight coding, I'll be trying to read [computer science research papers](https://arxiv.org/list/cs/recent), as well.
 Maybe three per week is a bit of a lofty goal; I'll adjust as needed.
