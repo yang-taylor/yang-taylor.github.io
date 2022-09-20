@@ -12,7 +12,7 @@ category: coding-project
 In my senior year of high school, one of my clubs hosted a “Game Night” fundraiser event.
 I decided to create an interface for our version of Family Feud.
 
-[View Code on GitHub](https://github.com/tayleyi/family-feud)
+[View Code on GitHub](https://github.com/yang-taylor/family-feud)
 
 It’s not perfect; the answer bank is quite static, and cannot be edited on the fly.
 The questions are housed on a separate text document, to prevent cheating from the screen.

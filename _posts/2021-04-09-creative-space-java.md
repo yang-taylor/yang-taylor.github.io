@@ -13,7 +13,7 @@ We spent about a month working on this project.
 Since we worked as a team, we had to find a way to share our code, even when we aren’t working at the same time, from the same computer.
 Our work flow involved a mix of using GitHub and emailing archives.
 
-[View Code on GitHub](https://github.com/tayleyi/Creative-Space)
+[View Code on GitHub](https://github.com/yang-taylor/Creative-Space)
 
 ## How to Use the Program
 To start, the program does nothing by default.
