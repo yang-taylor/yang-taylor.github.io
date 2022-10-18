@@ -10,13 +10,13 @@ category: personal
 ## Goals
 
 ### Coding
-My current WIP is [Sudoku](https://github.com/tayleyi/sudoku).
+My current WIP is [Sudoku](https://github.com/yang-taylor/sudoku).
 For that project, I'll be using Flask (Python) for the backend, most likely hosted on Vercel.
 I'll be using ReactJS for the front-end.
 The project will most likely use a SQL database, hosted on PlanetScale.
 My biggest challenge right now is being able to generate new game boards from the back end.
 
-At the same time, I'll also be working on extending my [Family Feud]({% link _posts/2021-04-09-creative-space-java.md %}) project.
+At the same time, I'll also be working on extending my [Family Feud]({% link _posts/projects/2022-04-01-family-feud.md %}) project.
 I'll be attempting to add authentication and a database,
 so that the game host will be able to use the web interface, rather than the Google Doc.
 
